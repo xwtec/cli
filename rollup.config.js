@@ -12,7 +12,11 @@ export default [
       file: './lib/index.js',
       format: 'cjs',
     },
-    plugins: [commonjs(), json(), nodeResolve(), babel()],
+    external: [
+      'chalk',
+      'meow',
+    ],
+    plugins: [nodeResolve(), json(), commonjs(), babel()],
   },
   // {
   //   input: './src/cli.js',
