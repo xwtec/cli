@@ -1,6 +1,6 @@
 {
   "name": "@xwtec/cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "xwtec work cli",
   "main": "lib/index.js",
   "repository": "https://github.com/xwtec/cli",
