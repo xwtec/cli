@@ -15,7 +15,7 @@ const cli = meow(
   }
 )
 
-const [command] = cli.input || 'hello'
+const [command] = cli.input[0] || 'hello'
 
 if (!api[command]) {
   console.log(`command ${chalk.red(command)} not found.`)
