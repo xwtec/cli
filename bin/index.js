@@ -5,6 +5,9 @@ const chalk = require('chalk')
 // eslint-disable-next-line import/no-unresolved
 const api = require('..')
 
+const inquirer = require('inquirer')
+
+
 const cli = meow(
   `
   Usage
