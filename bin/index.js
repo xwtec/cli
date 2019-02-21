@@ -7,11 +7,18 @@ const api = require('..')
 const cli = meow(
   `
   Usage
-    $ xw …
+    $ xw command …
 `,
   {
     flags: {},
   }
 )
 
-api.hello()
+const [command] = cli.input || 'hello'
+
+if (!api[command]) {
+  console.log(`command ${chalk.red(command)} not found.`)
+  process.exit(1)
+} else {
+  api[command](cli)
+}
