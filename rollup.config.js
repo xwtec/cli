@@ -15,6 +15,9 @@ export default [
     external: [
       'chalk',
       'meow',
+      'cowsay',
+      'inquirer',
+      'babel-polyfill',
     ],
     plugins: [nodeResolve(), json(), commonjs(), babel()],
   },

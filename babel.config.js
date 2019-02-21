@@ -7,7 +7,8 @@ module.exports = {
       },
     ],
   ],
-  plugins: [],
+  plugins: [
+  ],
   env: {
     test: {},
   },
