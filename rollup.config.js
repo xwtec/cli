@@ -12,12 +12,7 @@ export default [
       file: './lib/index.js',
       format: 'cjs',
     },
-    plugins: [
-      commonjs(),
-      json(),
-      nodeResolve(),
-      babel(),
-    ]
+    plugins: [commonjs(), json(), nodeResolve(), babel()],
   },
   // {
   //   input: './src/cli.js',
@@ -36,4 +31,3 @@ export default [
   //   ]
   // },
 ]
-

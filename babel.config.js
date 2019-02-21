@@ -3,14 +3,12 @@ module.exports = {
     [
       '@babel/preset-env',
       {
-        debug: false
+        debug: false,
       },
     ],
   ],
-  plugins: [
-  ],
+  plugins: [],
   env: {
-    test: {
-    },
+    test: {},
   },
 }
