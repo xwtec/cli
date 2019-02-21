@@ -5,6 +5,10 @@
   "main": "lib/index.js",
   "repository": "https://github.com/xwtec/cli",
   "author": "fisker",
+  "bin": {
+    "xwtec": "bin/index.js",
+    "xw": "bin/index.js"
+  },
   "license": "MIT",
   "files": [
     "bin",
