@@ -17,7 +17,7 @@ export default [
       'meow',
       'cowsay',
       'inquirer',
-      'babel-polyfill',
+      '@babel/polyfill',
     ],
     plugins: [nodeResolve(), json(), commonjs(), babel()],
   },
