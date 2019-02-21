@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const meow = require('meow')
+const chalk = require('chalk')
 // eslint-disable-next-line import/no-unresolved
 const api = require('..')
 
