@@ -791,9 +791,9 @@
   integrity sha1-zrAEilRttFP2JI8tHZXpN6bwChQ=
 
 "@xwtec/eslint-config@^3.5.3":
-  version "3.5.3"
-  resolved "http://registry.npm.taobao.org/@xwtec/eslint-config/download/@xwtec/eslint-config-3.5.3.tgz#bf95920cbc72fc080475f6f0af5f7718a0510923"
-  integrity sha1-v5WSDLxy/AgEdfbwr193GKBRCSM=
+  version "3.5.7"
+  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-3.5.7.tgz#95b8d9e5eacec1a5d9944ad8bca9b47fa72998ed"
+  integrity sha512-ceyhgdCDoolnf2++IMuKl8NXafftEc0VQRsTHg/kOmY1bSxNLSJNQyqorkaRXZHyUwgIP6fKY4mCVxVPZZ0zVQ==
   dependencies:
     eslint-config-airbnb-base "^13.1.0"
     eslint-config-prettier "^4.0.0"
