@@ -7,7 +7,6 @@ const api = require('..')
 
 const inquirer = require('inquirer')
 
-
 const cli = meow(
   `
   Usage

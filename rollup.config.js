@@ -12,13 +12,7 @@ export default [
       file: './lib/index.js',
       format: 'cjs',
     },
-    external: [
-      'chalk',
-      'meow',
-      'cowsay',
-      'inquirer',
-      '@babel/polyfill',
-    ],
+    external: ['chalk', 'meow', 'cowsay', 'inquirer', '@babel/polyfill'],
     plugins: [nodeResolve(), json(), commonjs(), babel()],
   },
   // {
