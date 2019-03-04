@@ -15,7 +15,10 @@
     "xw": "bin/index.js"
   },
   "license": "MIT",
-  "files": ["bin", "lib"],
+  "files": [
+    "bin",
+    "lib"
+  ],
   "scripts": {
     "clean": "rm -rf lib",
     "build": "npm-run-all --parallel build:*",
