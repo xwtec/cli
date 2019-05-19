@@ -1074,13 +1074,13 @@ braces@^2.3.1:
     to-regex "^3.0.1"
 
 browserslist@^4.5.2, browserslist@^4.5.4:
-  version "4.5.6"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.5.6.tgz#ea42e8581ca2513fa7f371d4dd66da763938163d"
-  integrity sha512-o/hPOtbU9oX507lIqon+UvPYqpx3mHc8cV3QemSBTXwkG8gSQSK6UKvXcE/DcleU3+A59XTUHyCvZ5qGy8xVAg==
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.6.0.tgz#5274028c26f4d933d5b1323307c1d1da5084c9ff"
+  integrity sha512-Jk0YFwXBuMOOol8n6FhgkDzn3mY9PYLYGk29zybF05SbRTsMgPqmTNeQQhOghCxq5oFqAXE3u4sYddr4C0uRhg==
   dependencies:
-    caniuse-lite "^1.0.30000963"
-    electron-to-chromium "^1.3.127"
-    node-releases "^1.1.17"
+    caniuse-lite "^1.0.30000967"
+    electron-to-chromium "^1.3.133"
+    node-releases "^1.1.19"
 
 builtin-modules@^3.1.0:
   version "3.1.0"
@@ -1158,10 +1158,10 @@ camelcase@^4.0.0, camelcase@^4.1.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-4.1.0.tgz#d545635be1e33c542649c69173e5de6acfae34dd"
   integrity sha1-1UVjW+HjPFQmScaRc+Xeas+uNN0=
 
-caniuse-lite@^1.0.30000963:
-  version "1.0.30000967"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000967.tgz#a5039577806fccee80a04aaafb2c0890b1ee2f73"
-  integrity sha512-rUBIbap+VJfxTzrM4akJ00lkvVb5/n5v3EGXfWzSH5zT8aJmGzjA8HWhJ4U6kCpzxozUSnB+yvAYDRPY6mRpgQ==
+caniuse-lite@^1.0.30000967:
+  version "1.0.30000969"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000969.tgz#7664f571f2072657bde70b00a1fc1ba41f1942a9"
+  integrity sha512-Kus0yxkoAJgVc0bax7S4gLSlFifCa7MnSZL9p9VuS/HIKEL4seaqh28KIQAAO50cD/rJ5CiJkJFapkdDAlhFxQ==
 
 capture-stack-trace@^1.0.0:
   version "1.0.1"
@@ -1394,17 +1394,7 @@ core-util-is@~1.0.0:
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
   integrity sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
 
-cosmiconfig@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-5.2.0.tgz#45038e4d28a7fe787203aede9c25bca4a08b12c8"
-  integrity sha512-nxt+Nfc3JAqf4WIWd0jXLjTJZmsPLrA9DDc4nRw2KFJQJK7DNooqSXrNI7tzLG50CF8axczly5UV929tBmh/7g==
-  dependencies:
-    import-fresh "^2.0.0"
-    is-directory "^0.3.1"
-    js-yaml "^3.13.0"
-    parse-json "^4.0.0"
-
-cosmiconfig@^5.2.1:
+cosmiconfig@^5.2.0, cosmiconfig@^5.2.1:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-5.2.1.tgz#040f726809c591e77a17c0a3626ca45b4f168b1a"
   integrity sha512-H65gsXo1SKjf8zmrJ67eJk8aIRKV5ff2D4uKZIBZShbhGSpEmsQOPW/SKMKYhSTrqR7ufy6RP69rPogdaPh/kA==
@@ -1638,10 +1628,10 @@ duplexer3@^0.1.4:
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
   integrity sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
 
-electron-to-chromium@^1.3.127:
-  version "1.3.133"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.133.tgz#c47639c19b91feee3e22fad69f5556142007008c"
-  integrity sha512-lyoC8aoqbbDqsprb6aPdt9n3DpOZZzdz/T4IZKsR0/dkZIxnJVUjjcpOSwA66jPRIOyDAamCTAUqweU05kKNSg==
+electron-to-chromium@^1.3.133:
+  version "1.3.135"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.135.tgz#f5799b95f2bcd8de17cde47d63392d83a4477041"
+  integrity sha512-xXLNstRdVsisPF3pL3H9TVZo2XkMILfqtD6RiWIUmDK2sFX1Bjwqmd8LBp0Kuo2FgKO63JXPoEVGm8WyYdwP0Q==
 
 elegant-spinner@^1.0.1:
   version "1.0.1"
@@ -3069,9 +3059,9 @@ markdownlint-cli@^0.16.0:
     rc "~1.2.7"
 
 markdownlint@~0.14.1:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.14.1.tgz#62666d897284b44af20627229334045248f1c941"
-  integrity sha512-W3RxMP8GYyJAhgUXIXvBOXT2ai89qDIuLf2ZM0Xd+XcwXBS6Hu06Hg2UKNwMDPTy0uQK8YWCH4hkdxlevm/BgQ==
+  version "0.14.2"
+  resolved "https://registry.yarnpkg.com/markdownlint/-/markdownlint-0.14.2.tgz#22185a42b263a5c1105d894b9b66eb5ec992dcab"
+  integrity sha512-Lzw5u46jcIQW0RX8nfz6mOjg3VwoTi7KTubk+G7LgJMybV98h3tyVaMpsNRm3UomBosNOUKVe3XOjJs6WS6DdQ==
   dependencies:
     markdown-it "8.4.2"
 
@@ -3252,10 +3242,10 @@ nice-try@^1.0.4:
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
-node-releases@^1.1.17:
-  version "1.1.18"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.18.tgz#cc98fd75598a324a77188ebddf6650e9cbd8b1d5"
-  integrity sha512-/mnVgm6u/8OwlIsoyRXtTI0RfQcxZoAZbdwyXap0EeWwcOpDDymyCHM2/aR9XKmHXrvizHoPAOs0pcbiJ6RUaA==
+node-releases@^1.1.19:
+  version "1.1.19"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.19.tgz#c492d1e381fea0350b338b646c27867e88e91b3d"
+  integrity sha512-SH/B4WwovHbulIALsQllAVwqZZD1kPmKCqrhGfR29dXjLAVZMHvBjD3S6nL9D/J9QkmZ1R92/0wCMDKXUUvyyA==
   dependencies:
     semver "^5.3.0"
 
@@ -3804,9 +3794,9 @@ redent@^2.0.0:
     strip-indent "^2.0.0"
 
 regenerate-unicode-properties@^8.0.2:
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/regenerate-unicode-properties/-/regenerate-unicode-properties-8.0.2.tgz#7b38faa296252376d363558cfbda90c9ce709662"
-  integrity sha512-SbA/iNrBUf6Pv2zU8Ekv1Qbhv92yxL4hiDa2siuxs4KKn4oOoMDHXjAf7+Nz9qinUQ46B1LcWEi/PhJfPWpZWQ==
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/regenerate-unicode-properties/-/regenerate-unicode-properties-8.1.0.tgz#ef51e0f0ea4ad424b77bf7cb41f3e015c70a3f0e"
+  integrity sha512-LGZzkgtLY79GeXLm8Dp0BVLdQlWICzBnJz/ipWUgo59qBaZ+BHtq51P2q1uVZlppMuUAT37SDk39qUbjTWB7bA==
   dependencies:
     regenerate "^1.4.0"
 
@@ -3846,9 +3836,9 @@ regex-not@^1.0.0, regex-not@^1.0.2:
     safe-regex "^1.1.0"
 
 regexp-tree@^0.1.0:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/regexp-tree/-/regexp-tree-0.1.6.tgz#84900fa12fdf428a2ac25f04300382a7c0148479"
-  integrity sha512-LFrA98Dw/heXqDojz7qKFdygZmFoiVlvE1Zp7Cq2cvF+ZA+03Gmhy0k0PQlsC1jvHPiTUSs+pDHEuSWv6+6D7w==
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/regexp-tree/-/regexp-tree-0.1.8.tgz#277e9fb98596af7fa22d8cb38627bfcf4ae2fed2"
+  integrity sha512-9ASu7tuCKzdFa2YKfJmnmlilFrIJ8HFfE6MCs4aDLUw4gTBAaNwTTx/gw8Qo97fsV+UTVQXTmz9sHByeC8sKZg==
 
 regexpp@^2.0.1:
   version "2.0.1"
@@ -4015,9 +4005,9 @@ rollup-plugin-node-resolve@5.0.0:
     rollup-pluginutils "^2.7.0"
 
 rollup-pluginutils@^2.3.0, rollup-pluginutils@^2.5.0, rollup-pluginutils@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/rollup-pluginutils/-/rollup-pluginutils-2.7.0.tgz#da24a6f99432626160643ac6b087d71684317c4f"
-  integrity sha512-FoP6L1YnMYTAR06Dpq5LE3jJtMwPE6H4VEOqFU23yoziZnqNRSiWcVy6YgEY5PdQB4G7278+8c4TvB0JKS1csA==
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/rollup-pluginutils/-/rollup-pluginutils-2.7.1.tgz#a7915ce8b12c177364784bf38a1590cc6c2c8250"
+  integrity sha512-3nRf3buQGR9qz/IsSzhZAJyoK663kzseps8itkYHr+Z7ESuaffEPfgRinxbCRA0pf0gzLqkNKkSb8aNVTq75NA==
   dependencies:
     estree-walker "^0.6.0"
     micromatch "^3.1.10"
