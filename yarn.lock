@@ -832,11 +832,12 @@
   dependencies:
     "@types/node" "*"
 
-"@xwtec/eslint-config@5.0.5":
-  version "5.0.5"
-  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-5.0.5.tgz#5edfec90641b3985e93d3c43967024f7b6344c60"
-  integrity sha512-h0L3LQQp9DwJ6jfTFTnaPnx8HoAz4joEdt3GpQ2mqoATIMjcMwW3XjYQoqaRKcQY6Aw5NvB/NmBeTcXpWwpNfQ==
+"@xwtec/eslint-config@6.0.6":
+  version "6.0.6"
+  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.0.6.tgz#93f75e488521cdb2479821822faf3e4e954ebecb"
+  integrity sha512-bOQCcqdQXLhbDIQq8cijfgsZgkW4Ue+nX65yY3Qlzr3WirOyoYy8fjAXc7K5xg7inRX6J2DbCgPxcgQ+zXesqg==
   dependencies:
+    eslint-config-prettier "^4.3.0"
     eslint-plugin-prettier "^3.1.0"
 
 JSONStream@^1.0.4:
@@ -1686,6 +1687,13 @@ escape-string-regexp@^2.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz#a30304e99daa32e23b2fd20f51babd07cffca344"
   integrity sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w==
 
+eslint-config-prettier@^4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-4.3.0.tgz#c55c1fcac8ce4518aeb77906984e134d9eb5a4f0"
+  integrity sha512-sZwhSTHVVz78+kYD3t5pCWSYEdVSBR0PXnwjDRsUs8ytIrK8PLXw+6FKp8r3Z7rx4ZszdetWlXYKOHoUrrwPlA==
+  dependencies:
+    get-stdin "^6.0.0"
+
 eslint-plugin-prettier@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.0.tgz#8695188f95daa93b0dc54b249347ca3b79c4686d"
@@ -2034,6 +2042,11 @@ get-stdin@^5.0.1, get-stdin@~5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/get-stdin/-/get-stdin-5.0.1.tgz#122e161591e21ff4c52530305693f20e6393a398"
   integrity sha1-Ei4WFZHiH/TFJTAwVpPyDmOTo5g=
+
+get-stdin@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/get-stdin/-/get-stdin-6.0.0.tgz#9e09bf712b360ab9225e812048f71fde9c89657b"
+  integrity sha512-jp4tHawyV7+fkkSKyvjuLZswblUtz+SQKzSWnBbii16BuZksJlU1wuBYXY75r+duh/llF1ur6oNwi+2ZzjKZ7g==
 
 get-stream@^3.0.0:
   version "3.0.0"
