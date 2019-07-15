@@ -42,7 +42,7 @@
     "@babel/core": "7.5.4",
     "@babel/preset-env": "7.5.4",
     "@commitlint/cli": "8.0.0",
-    "@commitlint/config-conventional": "8.0.0",
+    "@commitlint/config-conventional": "8.1.0",
     "@xwtec/eslint-config": "6.0.12",
     "cz-conventional-changelog-emoji": "0.1.0",
     "eslint": "6.0.1",
