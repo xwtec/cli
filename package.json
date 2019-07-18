@@ -39,7 +39,7 @@
     "meow": "^5.0.0"
   },
   "devDependencies": {
-    "@babel/core": "7.5.4",
+    "@babel/core": "7.5.5",
     "@babel/preset-env": "7.5.4",
     "@commitlint/cli": "8.1.0",
     "@commitlint/config-conventional": "8.1.0",
