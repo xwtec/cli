@@ -871,10 +871,10 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-6.0.1.tgz#a984b405c702fa5a7ec6abc56b37f2ba35ef5af6"
   integrity sha512-ffCdcrEE5h8DqVxinQjo+2d1q+FV5z7iNtPofw3JsrltSoSVlOGaW0rY8XxtO9XukdTn8TaCGWmk2VFGhI70mg==
 
-"@xwtec/eslint-config@6.0.12":
-  version "6.0.12"
-  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.0.12.tgz#6466068b5932094acadcf3ebd7b52ac6658c6737"
-  integrity sha512-BHVqoJFMxkogGRILq40ZdmI/FERr0ymO8/+zpzlvObq9+P314c+zOTHgnZM3dcqWwGT8LONRnVf/x+m3QMUpWw==
+"@xwtec/eslint-config@6.0.13":
+  version "6.0.13"
+  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.0.13.tgz#ded3a45c4418bf1968e8058ce546efec5fa80110"
+  integrity sha512-aBSqrYFW0aY++94mnxU4vIg/cmpVirE40YyQuOpEatHl/CoS/U8RMmXuWbkq/qXFfUtViEueFa16oif6MxF4Fw==
   dependencies:
     eslint-config-prettier "6.0.0"
     eslint-plugin-prettier "3.1.0"
