@@ -888,13 +888,13 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-6.2.0.tgz#d688d574400d96c5b0114968705366f431831e1a"
   integrity sha512-1OzrNb4RuAzIT7wHSsgZRlMBlNsJl+do6UblR7JMW4oB7bbR+uBEYtUh7gEc/jM84GGilh68lSOokyM/zNUlBA==
 
-"@xwtec/eslint-config@6.0.18":
-  version "6.0.18"
-  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.0.18.tgz#d52738092ba4f18c9b7a872a4be695bb90720dbb"
-  integrity sha512-xp2d7N5TCo6WsrozWVPAv+YabWr+76mYJ3XMTwDfVk4auYjLLr+CEkEz12nMXyrpVjd3fhz3juOM8PwCUjEZpg==
+"@xwtec/eslint-config@6.0.19":
+  version "6.0.19"
+  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.0.19.tgz#ed22f7a876d137a577333fc57d360b8ccc2aedae"
+  integrity sha512-9ZzoYgYpjuGq8F5+zTFRyTZIZLCoCUY6ifodNxveMcY2RhDMKfnivkhbflI1isvlYSJjTvsDtQQRK1U0kdFE1w==
   dependencies:
     babel-eslint "10.0.3"
-    eslint-config-prettier "6.3.0"
+    eslint-config-prettier "6.7.0"
     eslint-plugin-prettier "3.1.1"
 
 JSONStream@^1.0.4:
@@ -1683,10 +1683,10 @@ escape-string-regexp@^2.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz#a30304e99daa32e23b2fd20f51babd07cffca344"
   integrity sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w==
 
-eslint-config-prettier@6.3.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.3.0.tgz#e73b48e59dc49d950843f3eb96d519e2248286a3"
-  integrity sha512-EWaGjlDAZRzVFveh2Jsglcere2KK5CJBhkNSa1xs3KfMUGdRiT7lG089eqPdvlzWHpAqaekubOsOMu8W8Yk71A==
+eslint-config-prettier@6.7.0:
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.7.0.tgz#9a876952e12df2b284adbd3440994bf1f39dfbb9"
+  integrity sha512-FamQVKM3jjUVwhG4hEMnbtsq7xOIDm+SY5iBPfR8gKsJoAB2IQnNF+bk1+8Fy44Nq7PPJaLvkRxILYdJWoguKQ==
   dependencies:
     get-stdin "^6.0.0"
 
