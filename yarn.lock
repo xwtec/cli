@@ -898,10 +898,10 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-6.2.0.tgz#d688d574400d96c5b0114968705366f431831e1a"
   integrity sha512-1OzrNb4RuAzIT7wHSsgZRlMBlNsJl+do6UblR7JMW4oB7bbR+uBEYtUh7gEc/jM84GGilh68lSOokyM/zNUlBA==
 
-"@xwtec/eslint-config@6.0.20":
-  version "6.0.20"
-  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.0.20.tgz#120ad4d1a27d4d2da2e4b841517e3be45a471efe"
-  integrity sha512-CzJ0LLExhqR0DbFHmGMXVoZmdZpn5vR/MVEtKp8UJdbaI0xTPSAZCCadKy/4u6znSEQgB/h3eu3haS1wDNpziA==
+"@xwtec/eslint-config@6.0.21":
+  version "6.0.21"
+  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.0.21.tgz#9682c8aee5cef0eec6867308192fb81e2aca0981"
+  integrity sha512-kSze6STspgEu6lQ6YW3xawK4MAZWRexmO10Hv7WJCzaS8Eg82oKZRfEp5fSwX2tpXs2vdk01W54VZN+q9rjPzA==
   dependencies:
     babel-eslint "10.0.3"
     eslint-config-prettier "6.7.0"
