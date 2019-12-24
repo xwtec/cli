@@ -898,14 +898,14 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-6.2.0.tgz#d688d574400d96c5b0114968705366f431831e1a"
   integrity sha512-1OzrNb4RuAzIT7wHSsgZRlMBlNsJl+do6UblR7JMW4oB7bbR+uBEYtUh7gEc/jM84GGilh68lSOokyM/zNUlBA==
 
-"@xwtec/eslint-config@6.0.21":
-  version "6.0.21"
-  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.0.21.tgz#9682c8aee5cef0eec6867308192fb81e2aca0981"
-  integrity sha512-kSze6STspgEu6lQ6YW3xawK4MAZWRexmO10Hv7WJCzaS8Eg82oKZRfEp5fSwX2tpXs2vdk01W54VZN+q9rjPzA==
+"@xwtec/eslint-config@6.1.0":
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-6.1.0.tgz#8ba1ecd4fc33b918b6c1f952306e013d54081eba"
+  integrity sha512-c+cCEs4T/6dnFGB+EfBmpiGiQjQPlqj0aooQZfoRCCFPl27KMMjh9+yQ17ABknYZnTe2Bha/VOoSbmxjwjDaZQ==
   dependencies:
     babel-eslint "10.0.3"
     eslint-config-prettier "6.7.0"
-    eslint-plugin-prettier "3.1.1"
+    eslint-plugin-prettier "3.1.2"
 
 JSONStream@^1.0.4:
   version "1.3.5"
@@ -1705,10 +1705,10 @@ eslint-config-prettier@6.7.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-plugin-prettier@3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.1.tgz#507b8562410d02a03f0ddc949c616f877852f2ba"
-  integrity sha512-A+TZuHZ0KU0cnn56/9mfR7/KjUJ9QNVXUhwvRFSR7PGPe0zQR6PTkmyqg1AtUUEOzTqeRsUwyKFh0oVZKVCrtA==
+eslint-plugin-prettier@3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.2.tgz#432e5a667666ab84ce72f945c72f77d996a5c9ba"
+  integrity sha512-GlolCC9y3XZfv3RQfwGew7NnuFDKsfI4lbvRK+PIIo23SFH+LemGs4cKwzAaRa+Mdb+lQO/STaIayno8T5sJJA==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
