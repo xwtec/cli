@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "cowsay": "^1.4.0",
     "inquirer": "^7.0.0",
     "meow": "^6.1.0"
