@@ -43,7 +43,7 @@
     "@babel/preset-env": "7.10.3",
     "@commitlint/cli": "9.0.1",
     "@commitlint/config-conventional": "9.0.1",
-    "@xwtec/eslint-config": "6.3.0",
+    "@xwtec/eslint-config": "6.3.1",
     "cz-conventional-changelog-emoji": "0.1.0",
     "eslint": "7.3.1",
     "husky": "^4.0.0",
