@@ -51,7 +51,7 @@
     "markdownlint-cli": "^0.25.0",
     "np": "7.0.0",
     "npm-run-all": "4.1.5",
-    "prettier": "2.2.0",
+    "prettier": "2.2.1",
     "rollup": "2.33.3",
     "rollup-plugin-babel": "4.4.0",
     "rollup-plugin-commonjs": "10.1.0",
